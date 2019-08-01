@@ -1,0 +1,11 @@
+D:\VS 2017\technical task\technical task\bin\Debug\netcoreapp2.1\technical task.deps.json
+D:\VS 2017\technical task\technical task\bin\Debug\netcoreapp2.1\technical task.runtimeconfig.json
+D:\VS 2017\technical task\technical task\bin\Debug\netcoreapp2.1\technical task.runtimeconfig.dev.json
+D:\VS 2017\technical task\technical task\bin\Debug\netcoreapp2.1\technical task.dll
+D:\VS 2017\technical task\technical task\bin\Debug\netcoreapp2.1\technical task.pdb
+D:\VS 2017\technical task\technical task\obj\Debug\netcoreapp2.1\technical task.csprojAssemblyReference.cache
+D:\VS 2017\technical task\technical task\obj\Debug\netcoreapp2.1\technical task.csproj.CoreCompileInputs.cache
+D:\VS 2017\technical task\technical task\obj\Debug\netcoreapp2.1\technical task.AssemblyInfoInputs.cache
+D:\VS 2017\technical task\technical task\obj\Debug\netcoreapp2.1\technical task.AssemblyInfo.cs
+D:\VS 2017\technical task\technical task\obj\Debug\netcoreapp2.1\technical task.dll
+D:\VS 2017\technical task\technical task\obj\Debug\netcoreapp2.1\technical task.pdb
